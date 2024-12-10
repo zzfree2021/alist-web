@@ -15,6 +15,13 @@
   "favicon": "Favicon",
   "filename_char_mapping": "Filename char mapping",
   "forward_direct_link_params": "Forward direct link params",
+  "ftp_implicit_tls": "Ftp implicit tls",
+  "ftp_mandatory_tls": "Ftp mandatory tls",
+  "ftp_pasv_port_map": "Ftp pasv port map",
+  "ftp_proxy_user_agent": "Ftp proxy user agent",
+  "ftp_public_host": "Ftp public host",
+  "ftp_tls_private_key_path": "Ftp tls private key path",
+  "ftp_tls_public_cert_path": "Ftp tls public cert path",
   "hide_files": "Hide files",
   "home_container": "Home container",
   "home_containers": {
@@ -104,12 +111,5 @@
   "version": "Version",
   "video_autoplay": "Video autoplay",
   "video_types": "Video types",
-  "webauthn_login_enabled": "Webauthn login enabled",
-  "ftp_public_host": "Public IP/Host",
-  "ftp_pasv_port_map": "Passive transfer port mapping",
-  "ftp_proxy_user_agent": "HTTP proxy user agent",
-  "ftp_mandatory_tls": "Enable mandatory TLS",
-  "ftp_implicit_tls": "Enable implicit TLS (implies mandatory TLS)",
-  "ftp_tls_private_key_path": "Path to TLS private key file",
-  "ftp_tls_public_cert_path": "Path to TLS certificate file"
+  "webauthn_login_enabled": "Webauthn login enabled"
 }
