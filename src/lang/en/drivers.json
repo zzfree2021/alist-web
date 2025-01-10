@@ -476,7 +476,9 @@
     "thumb_concurrency": "Thumb concurrency",
     "thumb_concurrency-tips": "Number of concurrent thumbnail generation goroutines. This controls how many thumbnails can be generated in parallel.",
     "thumbnail": "Thumbnail",
-    "thumbnail-tips": "enable thumbnail"
+    "thumbnail-tips": "enable thumbnail",
+    "video_thumb_pos": "Video thumb pos",
+    "video_thumb_pos-tips": "The position of the video thumbnail. If the value is a number (integer ot floating point), it represents the time in seconds. If the value ends with '%', it represents the percentage of the video duration."
   },
   "MediaTrack": {
     "access_token": "Access token",
@@ -893,7 +895,8 @@
     "head_size": "Head size",
     "head_size-tips": "Use head method to get file size, but it may be failed.",
     "url_structure": "Url structure",
-    "url_structure-tips": "structure:FolderName:\n  [FileName:][FileSize:][Modified:]Url"
+    "url_structure-tips": "structure:FolderName:\n  [FileName:][FileSize:][Modified:]Url",
+    "writable": "Writable"
   },
   "VTencent": {
     "cookie": "Cookie",
