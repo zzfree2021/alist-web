@@ -137,6 +137,10 @@
     "username": "Username"
   },
   "Alias": {
+    "download_concurrency": "Download concurrency",
+    "download_concurrency-tips": "Need to enable proxy",
+    "download_part_size": "Download part size",
+    "download_part_size-tips": "Need to enable proxy. Unit: KB",
     "paths": "Paths",
     "protect_same_name": "Protect same name",
     "protect_same_name-tips": "Protects same-name files from Delete or Rename"
