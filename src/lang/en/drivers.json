@@ -359,6 +359,10 @@
     "session_token": "Session token",
     "sign_url_expire": "Sign url expire"
   },
+  "Doubao": {
+    "cookie": "Cookie",
+    "root_folder_id": "Root folder id"
+  },
   "Dropbox": {
     "client_id": "Client id",
     "client_id-tips": "Keep it empty if you don't have one",
@@ -1079,6 +1083,7 @@
     "Cloudreve": {},
     "Crypt": {},
     "Doge": {},
+    "Doubao": {},
     "Dropbox": {},
     "FTP": {},
     "FebBox": {},
@@ -1157,6 +1162,7 @@
     "Cloudreve": "Cloudreve",
     "Crypt": "Crypt",
     "Doge": "Doge",
+    "Doubao": "Doubao",
     "Dropbox": "Dropbox",
     "FTP": "FTP",
     "FebBox": "FebBox",
